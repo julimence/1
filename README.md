@@ -10,7 +10,8 @@
 	
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Caractéristiques</td>
+	    NOM Prénom
     </tr>
 </table>
 
