@@ -17,6 +17,10 @@
 	<td>Âge</td> <td>18 ans</td>
     </tr>
 	<td>Date de naissance</td> <td>11/10/2002</td>
+    <tr>
+	<td>Etudes</td> <td>L1 CUPGE à [l'UT3 de Toulouse](https://www.univ-tlse3.fr/)</td> 
+    </tr>
+	<td>Lieu de résidence</td> <td>Vieillevigne (31)</td>
 </table>
 
 # 2. Ce que j'aime
