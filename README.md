@@ -8,7 +8,11 @@
 
 | Caractéristiques physiques|       |   | ------------- |: -------------: | | taille      |       158 cm       | | cheveux     |        rasés, habituellement châtain     || yeux     |        verts      | 
 	
-  | Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
 # 2. Ce que j'aime
 
