@@ -11,8 +11,8 @@
 <table>
     <tr>
 	    <td>Caractéristiques</td><td> </td>
-	    <td>NOM Prénom</td> <td>PETIT Julie</td>
     </tr>
+	    <td>NOM Prénom</td> <td>PETIT Julie</td>
 </table>
 
 # 2. Ce que j'aime
