@@ -13,6 +13,8 @@
 	    <td>Caractéristiques</td><td> </td>
     </tr>
 	    <td>NOM Prénom</td> <td>PETIT Julie</td>
+	<td>Âge</td> <td>18 ans</td>
+	<td>Date de naissance</td> <td>11/10/2002</td>
 </table>
 
 # 2. Ce que j'aime
