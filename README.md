@@ -2,11 +2,6 @@
 
 # 1.Qui suis-je ?
 
-
-| Caractéristiques|         |  | ------------- |: -------------: | | NOM Prénom      |       Julie PETIT       | | Âge     |        18  ans     | | Date de Naissance      |  11/10/2002       | | Etudes      |        L1 CUPGE à [l'UT3 de Toulouse](https://www.univ-tlse3.fr/)| | Lieu de résidence     |        Vieillevigne (31)       | 
-
-
-| Caractéristiques physiques|       |   | ------------- |: -------------: | | taille      |       158 cm       | | cheveux     |        rasés, habituellement châtain     || yeux     |        verts      | 
 	
 <table>
     <tr>
@@ -22,6 +17,19 @@
     </tr>
 	<td>Lieu de résidence</td> <td>Vieillevigne (31)</td>
 </table>
+
+<table>
+    <tr>
+	    <td>Caractéristiques physiques</td><td> </td>
+    </tr>
+	    <td>taille</td> <td>158 cm</td>
+    <tr>	
+	<td>cheveux</td> <td>rasés, habituellement châtain</td>
+    </tr>
+	<td>yeux</td> <td>verts</td>
+</table>
+
+
 
 # 2. Ce que j'aime
 
