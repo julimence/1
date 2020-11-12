@@ -10,8 +10,8 @@
 	
 <table>
     <tr>
-        <td>Caractéristiques</td>
-	    NOM Prénom
+	    <td>Caractéristiques</td><td> </td>
+	    <td>NOM Prénom</td> <td>PETIT Julie</td>
     </tr>
 </table>
 
